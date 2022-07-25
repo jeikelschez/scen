@@ -1,0 +1,1 @@
+"use strict";(globalThis["webpackChunktest"]=globalThis["webpackChunktest"]||[]).push([[8735],{8735:(s,t,e)=>{e.r(t),e.d(t,{default:()=>l});const a={},h=a,l=h}}]);
